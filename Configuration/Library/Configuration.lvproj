@@ -205,6 +205,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/Development/builds/Framework</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{FCEA324D-667F-49F9-BCB5-464046C61655}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Configuration.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/Development/builds/Framework/NI_AB_PROJECTNAME.lvlibp</Property>
