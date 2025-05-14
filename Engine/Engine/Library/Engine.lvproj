@@ -182,7 +182,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/Development/builds/Framework</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{95F1C0BB-04C6-4489-BA1F-5CAEC8094D1F}</Property>
-				<Property Name="Bld_version.build" Type="Int">11</Property>
+				<Property Name="Bld_version.build" Type="Int">12</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Engine.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/Development/builds/Framework/NI_AB_PROJECTNAME.lvlibp</Property>
